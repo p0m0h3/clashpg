@@ -8,7 +8,7 @@ proxies:
   - name: "mohe"
     uuid: uuid
     type: vmess
-    server: access.mohe.space
+    server: khamenei.ir
     port: 443
     alterId: 0
     cipher: auto
@@ -17,7 +17,7 @@ proxies:
     ws-opts:
       path: /ray
       headers:
-         Host: access.mohe.space
+         Host: khamenei.ir
 
 proxy-groups:
   - name: "auto"
